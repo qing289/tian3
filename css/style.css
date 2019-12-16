@@ -38,10 +38,10 @@ body{ margin:0 auto;
 .s_top_1 h1{ float: left;}
 .s_top_1 h1 img{ width:100%; }
 
-.s_top_2{width: 100%; float: left;background: rgb(153, 126, 228); padding-left: 10%;padding-top:0;}
+.s_top_2{width: 100%; float: left;background: #00489B; padding-left: 10%;padding-top:0;}
 
 .s_top_2 ul li{position: relative; font-size: 16px; float: left;margin: 0 1px; line-height: 50px;width: 14%}
-.s_top_2 ul li a{ color: #000;  margin-left: 4%}
+.s_top_2 ul li a{ color: #fff;  margin-left: 4%}
 .s_top_2 ul li a i{ width: 0; height: 2px; background: #005bf8; display: block; position: absolute; top: 40px; left: 0;
 	transition:width .4s;
 -moz-transition:width .4s; /* Firefox 4 */
@@ -49,7 +49,7 @@ body{ margin:0 auto;
 -o-transition:width .4s; /* Opera */} 
 .s_top_2 ul li a:hover i{ width: 90%;margin-left: 10%}
 .s_top_2 ul li a:hover,.s_top_2 ul li.s_xwzxde a{color: #005bf8;}
-.s_top_2 ul li:hover{background: #FFF;border-top-left-radius: 10%;border-top-right-radius: 10%;}
+.s_top_2 ul li:hover{background: #FFF;}
 
 .s_top_4{ float: left; padding-left: 15%;}/*导航距左*/
 .s_top_4{ height: 90px;position:fixed;z-index: 9999;margin-right:200px;background-color: #fff;-webkit-box-shadow:0 2px 8px rgba(0,0,0,.4);box-shadow:0px 2px 8px rgba(0,0,0,0.4);}
