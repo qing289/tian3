@@ -407,7 +407,7 @@ a{
     -webkit-transform: translateY(-6px);
     transform: translateY(-6px);
     -moz-box-shadow: 0 20px 20px rgba(0,0,0,.1);
-    webkit-box-shadow: 0 0 25px -5px #9e9c9e;
+    -webkit-box-shadow: 0 0 25px -5px #9e9c9e;
     box-shadow: 0 0 25px -5px #9e9c9e;
 }
 .more{

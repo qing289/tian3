@@ -29,7 +29,6 @@ textarea{overflow:auto;vertical-align:top;}table{border-collapse:collapse;border
 
 [class^="icon-"], [class*=" icon-"] {
 	font-family: 'icomoon';
-	speak: none;
 	font-style: normal;
 	font-weight: normal;
 	font-variant: normal;
@@ -40,7 +39,10 @@ textarea{overflow:auto;vertical-align:top;}table{border-collapse:collapse;border
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
-body, html { font-size: 100%; 	padding: 0; margin: 0;}
+body, html { font-size: 100%; 	padding: 0; margin: 0;
+	background-image: url("/images/网站渐变.jpg");
+    background-repeat: no-repeat;
+}
 
 /* Reset */
 *,
@@ -157,7 +159,6 @@ body{
 	font-variant: normal;
 	font-family: 'icomoon';
 	line-height: 1;
-	speak: none;
 	-webkit-font-smoothing: antialiased;
 }
 /* footer */
