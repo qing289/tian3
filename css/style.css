@@ -38,10 +38,10 @@ body{ margin:0 auto;
 .s_top_1 h1{ float: left;}
 .s_top_1 h1 img{ width:100%; }
 
-.s_top_2{width: 100%; float: left;background: #00489B; padding-left: 10%;padding-top:0;}
+.s_top_2{ user-select:none;width: 100%; float: left;background: #00489B; padding-left: 10%;padding-top:0;}
 
 .s_top_2 ul li{position: relative; font-size: 16px; float: left;margin: 0 1px; line-height: 50px;width: 14%}
-.s_top_2 ul li a{ color: #fff;  margin-left: 4%}
+.s_top_2 ul li a{color: #fff;  margin-left: 4%}
 .s_top_2 ul li a i{ width: 0; height: 2px; background: #005bf8; display: block; position: absolute; top: 40px; left: 0;
 	transition:width .4s;
 -moz-transition:width .4s; /* Firefox 4 */
