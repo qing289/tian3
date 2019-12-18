@@ -463,7 +463,6 @@ a{
 	height:160px; 
 	z-index:1; 
 	background-color: #fff; 
-	layer-background-color: #000000; 
 	border: 1px none #fff; 
 	margin-left: 200px; 
 
@@ -474,7 +473,6 @@ a{
 	height:250px; 
 	z-index:1; 
 	background-color: #fff; 
-	layer-background-color: #000000; 
 	border: 1px none #fff; 
 	margin-left: 200px; 
 
