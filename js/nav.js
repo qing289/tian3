@@ -6,8 +6,8 @@ function setlayer(alias, str, icon) {
         html += "<i class=\"" + icon + "\"></i>" + str + "</span>";
         html += "</div>";
     } else {
-        html += "<div class=\"img-item\">";
-        html += "<img src=\"" + str + "\">";
+        html += "<div class=\"img-item leftNav-item ul li image\">";
+        html += "<img src=\"" + str + "\" >";
         html += "</div>";
     }
     return html;

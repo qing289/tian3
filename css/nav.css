@@ -3,13 +3,14 @@
 	right: 50px;
 	bottom: 11%;
 	z-index: 999999;
+} 
+.leftNav-item ul li image{
+	margin: 50px;
+	
+
 }
-.rightNav-item {
-	position: fixed;
-	left: 50px;
-	bottom: 11%;
-	z-index: 999999;
-}
+
+
 .leftNav-item ul{
 	margin: 0;
 	padding: 0;
@@ -68,6 +69,8 @@
 	filter: alpha(opacity=90);
 }
 
+
 .for-top {
 	display: none;
 }
+
