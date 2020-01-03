@@ -60,6 +60,7 @@ address{
     width: 45%;
     float: right;
     font-style: normal;
+    color: #616161;
     overflow: hidden;
     margin: 2% 0 0 0;
     padding: 0 2% 2% 2%;
@@ -192,6 +193,7 @@ address{
 .footer_6 h1{ width: 110px;;margin: 0 auto;}
 .footer_6 h1 img{ width: 110px; height: 110px}
 .footer_6 h2{ font-size: 12px; text-align: center; color: #fff; line-height:30px;}
+.footer_6 span{color:#616161;}
 .Box {width:100%;position: relative;margin-top: 40px;}
 /* .Box .content {width: 1200px;} */
 .Box .Box_con {position: relative;}
